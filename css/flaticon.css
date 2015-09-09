@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon/flaticon.eot");
+    src: url("../fonts/flaticon/flaticon.eot#iefix") format("embedded-opentype"),
+    url("../fonts/flaticon/flaticon.woff") format("woff"),
+    url("../fonts/flaticon/flaticon.ttf") format("truetype"),
+    url("../fonts/flaticon/flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="ui-icon-triangle-"]:before, [class*=" ui-icon-triangle-"]:before,
+[class^="ui-icon-triangle-"]:after, [class*=" ui-icon-triangle-"]:after,
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    position: absolute;
+    font-family: "Flaticon";
+    font-size: 15px;
+    font-style: normal;
+    margin-left: 20px;
+    height: 20px;
+    top: 3px;
+    right: 4px;
+    width: 20px;
+}
+.ui-icon-triangle-1-s:before {
+    content: "\e000";
+}
+
+.flaticon-calendars17:before {
+    content: "\e002";
+    font-size: 19px;
+    top: 16px;
+    left: 1px;
+}
+.flaticon-mappointer5:before {
+    content: "\e003";
+    font-size: 20px;
+    top: 12px;
+    left: -3px;
+}
+.flaticon-star40 {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+.flaticon-star40:before {
+    content: "\e005";
+    font-size: 20px;
+    top: -11px;
+    left: -32px;
+}
+
+.ui-icon-circle-triangle-e:before {
+    content: "\e004";
+    position: absolute;
+    font-family: "Flaticon";
+    font-size: 15px;
+    font-style: normal;
+    height: 20px;
+    top: 0;
+    right: 13px;
+}
+.ui-icon-circle-triangle-w:before {
+    content: "\e001";
+    position: absolute;
+    font-family: "Flaticon";
+    font-size: 15px;
+    font-style: normal;
+    margin-left: 20px;
+    height: 20px;
+    top: 0;
+    right: 4px;
+}
+.flaticon-zoom14:before {
+    content: "\e006";
+    font-size: 33px;
+    top: 11px;
+    left: 47px;
+}
+.flaticon-zoom14_header:before {
+    top: 7px;
+    left: -22px;
+    position: relative;
+}
